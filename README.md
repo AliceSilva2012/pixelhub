@@ -56,3 +56,7 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 ├── index.html     # Estrutura principal da página web
 ├── style.css      # Estilização visual e responsividade
 └── script.js      # Banco de dados de jogos e lógica de interação/busca
+
+```
+---
+## Meu primeiro projeto.
