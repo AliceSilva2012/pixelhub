@@ -50,6 +50,12 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 ---
 
+## 🌎 Teste meu projeto no seu navegador! 
+
+- **Pokédex:** [VER PROJETO](https://hubpokedex.netlify.app)
+
+---
+
 ## 📁 Estrutura do Arquivo
 
 ```text
