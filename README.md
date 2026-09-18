@@ -66,5 +66,5 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 ---
 
-*O PixelHub inicialmente não foi uma aplicação pensada para outros usuários, apenas para mim, mas que ganhou uma nova versão totalmente atualizada e com muita lógica Javascript. Aproveite o código!*
+*O PixelHub inicialmente não foi uma aplicação pensada para outros usuários, apenas para mim, mas que ganhou uma nova versão totalmente atualizada, responsiva e com muita lógica Javascript. Aproveite o código!*
 
