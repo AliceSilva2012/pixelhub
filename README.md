@@ -12,7 +12,7 @@
 
 O **PixelHub** é uma plataforma web criada com o objetivo de centralizar informações sobre diversos jogos de videogames, pc e mobile em um só lugar. Através de um layout intuitivo e responsivo, os usuários podem explorar uma biblioteca variada de títulos, visualizar avaliações (gerais e da comunidade) e acessar diretamente os sites oficiais dos jogos.
 
-Este projeto foi desenvolvido aplicando os conceitos da metodologia **S.T.E.A.M.** (*Science, Technology, Engineering, Arts, and Mathematics*), unindo a lógica da programação de computadores com o design e a experiência do usuário (UX/UI).
+Esse projeto destaca conceitos de manipulação do DOM, organização de dados em objetos, responsividade básica e estilização com uma interface inspirada na identidade visual de cada jogo.
 
 ---
 
