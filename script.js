@@ -470,11 +470,6 @@ const games = [{
         </div>`;
     });
 
-function removerAcentos(texto) {
-    return texto
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "");
-}
     function procurarJogo() {
     let busca = document.getElementById("pesquisa").value.toLowerCase(); //toLowerCase = converte as letras no nome do jogo em letra minúscula.E serve pra diferenciar melhor os nomes (Super Mario Kart => super mario kart).
     let jogos = document.querySelectorAll(".block"); //Serve pra selecionas os cards onde tá cada jogo.
