@@ -69,7 +69,8 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/AliceSilva2012/pixelhub.git(https://github.com/AliceSilva2012/pixelhub.git)
+   git clone https://github.com/AliceSilva2012/pixelhub.git
+```
 
 ---
 
