@@ -70,7 +70,16 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 1. **Clone este repositório:**
    ```bash
    git clone https://github.com/AliceSilva2012/pixelhub.git
-```
+   ```
+
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd pixelhub
+   ```
+
+3. **Execute a aplicação:**
+   - Dê um duplo clique no arquivo `index.html` para abri-lo no navegador, ou
+   - Clique com o botão direito no `index.html` e selecione **Open with Live Server**.
 
 ---
 
