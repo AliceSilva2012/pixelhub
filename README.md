@@ -65,7 +65,7 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 - [Git](https://git-scm.com) instalado na máquina.
 - Um editor de código como o [VS Code](https://code.visualstudio.com/) (opcional).
 
-### Passo a Passo
+### ☕ Passo a Passo
 
 1. **Clone este repositório:**
    ```bash
