@@ -58,6 +58,21 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 ---
 
+## 🚀 Como Executar o Projeto Localmente
+
+### Pré-requisitos
+- Um navegador web moderno (Google Chrome, Firefox, Edge, etc.).
+- [Git](https://git-scm.com) instalado na máquina.
+- Um editor de código como o [VS Code](https://code.visualstudio.com/) (opcional).
+
+### Passo a Passo
+
+1. **Clone este repositório:**
+   ```bash
+   git clone [https://github.com/AliceSilva2012/nome-do-repositorio.git](https://github.com/AliceSilva2012/nome-do-repositorio.git)
+
+---
+
 ## 📁 Estrutura do Arquivo
 
 ```text
