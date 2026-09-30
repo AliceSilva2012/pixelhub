@@ -85,10 +85,15 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 ## 📁 Estrutura do Arquivo
 
-```text
-├── index.html     # Estrutura principal da página web
-├── style.css      # Estilização visual e responsividade
-└── script.js      # Dados dos jogos e lógica de interação/busca
+```mermaid
+graph TD
+    A[pixelhub] --> B[index.html]
+    A --> C[style.css]
+    A --> D[script.js]
+
+    style B fill:#e34f26,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#1572b6,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#f7df1e,stroke:#333,stroke-width:2px,color:#000
 ```
 
 ---
