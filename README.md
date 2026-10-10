@@ -54,7 +54,7 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 
 ## 🌎 Teste meu projeto no seu navegador! 
 
-- **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://pixelhhub.netlify.app/)
+- **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://alicesilva2012.github.io/pixelhub/)
 
 ---
 
