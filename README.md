@@ -1,18 +1,19 @@
 # PixelHub 🎮👾
 
-![Interface do PixelHub](https://hubportfolio.netlify.app/img/projeto1.png)
+<img width="1440" height="900" alt="Interface do projeto PixelHub" src="https://alicesilva2012.github.io/portfolio/img/projeto1.png" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Explorar_Catálogo-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://alicesilva2012.github.io/pixelhub/)
 
-> Uma central web interativa para catalogação, busca e exibição dinâmicas de jogos digitais.
+> Uma central web interativa para catalogação, busca e exibição dinâmica de jogos digitais.
 
 ---
 
 ## 💻 Sobre o Projeto
 
-O **PixelHub** é uma plataforma web criada com o objetivo de centralizar informações sobre diversos jogos de diferentes plataformas (PlayStation, XBOX, Nintendo, Steam, Epic Games etc.) em um só lugar. Através de um layout intuitivo e responsivo, os usuários podem explorar uma biblioteca variada de títulos, visualizar avaliações (gerais e da comunidade) e acessar diretamente os sites oficiais dos jogos.
+O **PixelHub** é uma plataforma web criada com o objetivo de centralizar informações sobre diversos jogos de diferentes plataformas (PlayStation, Xbox, Nintendo, Steam, Epic Games etc.) em um só lugar. Através de um layout intuitivo e responsivo, os usuários podem explorar uma biblioteca variada de títulos, visualizar avaliações (gerais e da comunidade) e acessar diretamente os sites oficiais dos jogos.
 
 Esse projeto destaca conceitos de manipulação do DOM, organização de dados em objetos, layout responsivo e estilização com uma interface inspirada na identidade visual de cada jogo.
 
@@ -23,7 +24,7 @@ Esse projeto destaca conceitos de manipulação do DOM, organização de dados e
 - **Catálogo Dinâmico:** Carregamento dinâmico de cards de jogos a partir de uma estrutura de dados em JavaScript (`Array` de objetos).
 - **Busca em Tempo Real:** Filtro de pesquisa instantâneo por nome que atualiza a tela à medida que o usuário digita.
 - **Personalização Visual:** Cada card e botão de direcionamento possui a cor temática referente ao jogo exibido.
-- **Navegação Prática:** Botão flutuante "Voltar ao topo!" para facilitar a rolagem em telas longas ou em dispositivos móveis.
+- **Navegação Prática:** Botão flutuante **Voltar ao topo!** para facilitar a rolagem em telas longas ou em dispositivos móveis.
 - **Links Externos:** Acesso rápido à página ou loja oficial de cada título.
 
 ---
@@ -44,17 +45,17 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5:** Estruturação semântica da página, incluindo cabeçalhos, barra de busca, contêineres e estrutura de navegação.
-- **CSS3:** Estilização visual, layout responsivo (Grid / Flexbox), estilização dos cards, botões interativos e efeitos visuais.
-- **JavaScript (Vanilla):**
+- **CSS3:** Estilização visual, layout responsivo (CSS Grid e Flexbox), estilização dos cards, botões interativos e efeitos visuais.
+- **JavaScript (Vanilla ES6+):**
   - Manipulação dinâmica do DOM para injeção de HTML via *Template Literals*.
   - Lógica do mecanismo de busca (*case-insensitive*) utilizando manipuladores de eventos (`input` / `onkeyup`).
   - Iteração e manipulação de arrays de dados (`forEach`, `includes`).
 
 ---
 
-## 🌎 Teste meu projeto no seu navegador! 
+## 🌎 Teste meu projeto no seu navegador!
 
-- **Pixelhub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://alicesilva2012.github.io/pixelhub/)
+- **PixelHub:** [VEJA ESTE PROJETO NO SEU NAVEGADOR!](https://alicesilva2012.github.io/pixelhub/)
 
 ---
 
@@ -80,10 +81,10 @@ Abaixo está uma amostra do formato como os dados dos jogos são organizados na 
 3. **Execute a aplicação:**
    - Dê um duplo clique no arquivo `index.html` para abri-lo no navegador, ou
    - Clique com o botão direito no `index.html` e selecione **Open with Live Server**.
-
+  
 ---
 
-## 📁 Estrutura do Arquivo
+## 📁 Estrutura de Arquivos
 
 ```mermaid
 graph TD
@@ -95,8 +96,3 @@ graph TD
     style C fill:#1572b6,stroke:#fff,stroke-width:2px,color:#fff
     style D fill:#f7df1e,stroke:#333,stroke-width:2px,color:#000
 ```
-
----
-
-*O PixelHub inicialmente não foi uma aplicação pensada para outros usuários, apenas para mim, mas que ganhou uma nova versão totalmente atualizada, responsiva e com muita lógica Javascript. Aproveite o código!*
-
